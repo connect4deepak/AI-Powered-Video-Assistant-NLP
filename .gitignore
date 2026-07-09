@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 .DS_Store
-.evn
+.env
 
 # C extensions
 *.so
