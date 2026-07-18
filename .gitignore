@@ -52,6 +52,11 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+.agents
+.claude
+vector_db
+cookies.txt
+.DS_store
 
 # Translations
 *.mo
